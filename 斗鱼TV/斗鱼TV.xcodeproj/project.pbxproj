@@ -97,7 +97,7 @@
 		D6D5D3B91E3D0BE900748468 /* 斗鱼TV */ = {
 			isa = PBXGroup;
 			children = (
-				D6D5D3E81E3D0C6F00748468 /* Classes */,
+				D6D5D4051E3D0D6700748468 /* Classes */,
 				D6D5D3BA1E3D0BE900748468 /* AppDelegate.swift */,
 				D6D5D3BC1E3D0BE900748468 /* ViewController.swift */,
 				D6D5D3BE1E3D0BE900748468 /* Main.storyboard */,
@@ -126,223 +126,223 @@
 			path = "斗鱼TVUITests";
 			sourceTree = "<group>";
 		};
-		D6D5D3E81E3D0C6F00748468 /* Classes */ = {
+		D6D5D4051E3D0D6700748468 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				D6D5D3E91E3D0C6F00748468 /* Follow */,
-				D6D5D3EE1E3D0C6F00748468 /* Home */,
-				D6D5D3F31E3D0C6F00748468 /* Live */,
-				D6D5D3F81E3D0C6F00748468 /* Main */,
-				D6D5D3FD1E3D0C6F00748468 /* Profile */,
-				D6D5D3FE1E3D0C6F00748468 /* Room */,
-				D6D5D4031E3D0C6F00748468 /* Tools */,
+				D6D5D4061E3D0D6700748468 /* Follow */,
+				D6D5D40B1E3D0D6700748468 /* Home */,
+				D6D5D4101E3D0D6700748468 /* Live */,
+				D6D5D4151E3D0D6700748468 /* Main */,
+				D6D5D41A1E3D0D6700748468 /* Profile */,
+				D6D5D41B1E3D0D6700748468 /* Room */,
+				D6D5D4201E3D0D6700748468 /* Tools */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		D6D5D3E91E3D0C6F00748468 /* Follow */ = {
+		D6D5D4061E3D0D6700748468 /* Follow */ = {
 			isa = PBXGroup;
 			children = (
-				D6D5D3EA1E3D0C6F00748468 /* Controller */,
-				D6D5D3EB1E3D0C6F00748468 /* Model */,
-				D6D5D3EC1E3D0C6F00748468 /* View */,
-				D6D5D3ED1E3D0C6F00748468 /* ViewModel */,
+				D6D5D4071E3D0D6700748468 /* Controller */,
+				D6D5D4081E3D0D6700748468 /* Model */,
+				D6D5D4091E3D0D6700748468 /* View */,
+				D6D5D40A1E3D0D6700748468 /* ViewModel */,
 			);
 			path = Follow;
 			sourceTree = "<group>";
 		};
-		D6D5D3EA1E3D0C6F00748468 /* Controller */ = {
+		D6D5D4071E3D0D6700748468 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Controller;
 			sourceTree = "<group>";
 		};
-		D6D5D3EB1E3D0C6F00748468 /* Model */ = {
+		D6D5D4081E3D0D6700748468 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Model;
 			sourceTree = "<group>";
 		};
-		D6D5D3EC1E3D0C6F00748468 /* View */ = {
+		D6D5D4091E3D0D6700748468 /* View */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		D6D5D3ED1E3D0C6F00748468 /* ViewModel */ = {
+		D6D5D40A1E3D0D6700748468 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
-		D6D5D3EE1E3D0C6F00748468 /* Home */ = {
+		D6D5D40B1E3D0D6700748468 /* Home */ = {
 			isa = PBXGroup;
 			children = (
-				D6D5D3EF1E3D0C6F00748468 /* Controller */,
-				D6D5D3F01E3D0C6F00748468 /* Model */,
-				D6D5D3F11E3D0C6F00748468 /* View */,
-				D6D5D3F21E3D0C6F00748468 /* ViewModel */,
+				D6D5D40C1E3D0D6700748468 /* Controller */,
+				D6D5D40D1E3D0D6700748468 /* Model */,
+				D6D5D40E1E3D0D6700748468 /* View */,
+				D6D5D40F1E3D0D6700748468 /* ViewModel */,
 			);
 			path = Home;
 			sourceTree = "<group>";
 		};
-		D6D5D3EF1E3D0C6F00748468 /* Controller */ = {
+		D6D5D40C1E3D0D6700748468 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Controller;
 			sourceTree = "<group>";
 		};
-		D6D5D3F01E3D0C6F00748468 /* Model */ = {
+		D6D5D40D1E3D0D6700748468 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Model;
 			sourceTree = "<group>";
 		};
-		D6D5D3F11E3D0C6F00748468 /* View */ = {
+		D6D5D40E1E3D0D6700748468 /* View */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		D6D5D3F21E3D0C6F00748468 /* ViewModel */ = {
+		D6D5D40F1E3D0D6700748468 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
-		D6D5D3F31E3D0C6F00748468 /* Live */ = {
+		D6D5D4101E3D0D6700748468 /* Live */ = {
 			isa = PBXGroup;
 			children = (
-				D6D5D3F41E3D0C6F00748468 /* Controller */,
-				D6D5D3F51E3D0C6F00748468 /* Model */,
-				D6D5D3F61E3D0C6F00748468 /* View */,
-				D6D5D3F71E3D0C6F00748468 /* ViewModel */,
+				D6D5D4111E3D0D6700748468 /* Controller */,
+				D6D5D4121E3D0D6700748468 /* Model */,
+				D6D5D4131E3D0D6700748468 /* View */,
+				D6D5D4141E3D0D6700748468 /* ViewModel */,
 			);
 			path = Live;
 			sourceTree = "<group>";
 		};
-		D6D5D3F41E3D0C6F00748468 /* Controller */ = {
+		D6D5D4111E3D0D6700748468 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Controller;
 			sourceTree = "<group>";
 		};
-		D6D5D3F51E3D0C6F00748468 /* Model */ = {
+		D6D5D4121E3D0D6700748468 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Model;
 			sourceTree = "<group>";
 		};
-		D6D5D3F61E3D0C6F00748468 /* View */ = {
+		D6D5D4131E3D0D6700748468 /* View */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		D6D5D3F71E3D0C6F00748468 /* ViewModel */ = {
+		D6D5D4141E3D0D6700748468 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
-		D6D5D3F81E3D0C6F00748468 /* Main */ = {
+		D6D5D4151E3D0D6700748468 /* Main */ = {
 			isa = PBXGroup;
 			children = (
-				D6D5D3F91E3D0C6F00748468 /* Controller */,
-				D6D5D3FA1E3D0C6F00748468 /* Model */,
-				D6D5D3FB1E3D0C6F00748468 /* View */,
-				D6D5D3FC1E3D0C6F00748468 /* ViewModel */,
+				D6D5D4161E3D0D6700748468 /* Controller */,
+				D6D5D4171E3D0D6700748468 /* Model */,
+				D6D5D4181E3D0D6700748468 /* View */,
+				D6D5D4191E3D0D6700748468 /* ViewModel */,
 			);
 			path = Main;
 			sourceTree = "<group>";
 		};
-		D6D5D3F91E3D0C6F00748468 /* Controller */ = {
+		D6D5D4161E3D0D6700748468 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Controller;
 			sourceTree = "<group>";
 		};
-		D6D5D3FA1E3D0C6F00748468 /* Model */ = {
+		D6D5D4171E3D0D6700748468 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Model;
 			sourceTree = "<group>";
 		};
-		D6D5D3FB1E3D0C6F00748468 /* View */ = {
+		D6D5D4181E3D0D6700748468 /* View */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		D6D5D3FC1E3D0C6F00748468 /* ViewModel */ = {
+		D6D5D4191E3D0D6700748468 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
-		D6D5D3FD1E3D0C6F00748468 /* Profile */ = {
+		D6D5D41A1E3D0D6700748468 /* Profile */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Profile;
 			sourceTree = "<group>";
 		};
-		D6D5D3FE1E3D0C6F00748468 /* Room */ = {
+		D6D5D41B1E3D0D6700748468 /* Room */ = {
 			isa = PBXGroup;
 			children = (
-				D6D5D3FF1E3D0C6F00748468 /* Controller */,
-				D6D5D4001E3D0C6F00748468 /* Model */,
-				D6D5D4011E3D0C6F00748468 /* View */,
-				D6D5D4021E3D0C6F00748468 /* ViewModel */,
+				D6D5D41C1E3D0D6700748468 /* Controller */,
+				D6D5D41D1E3D0D6700748468 /* Model */,
+				D6D5D41E1E3D0D6700748468 /* View */,
+				D6D5D41F1E3D0D6700748468 /* ViewModel */,
 			);
 			path = Room;
 			sourceTree = "<group>";
 		};
-		D6D5D3FF1E3D0C6F00748468 /* Controller */ = {
+		D6D5D41C1E3D0D6700748468 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Controller;
 			sourceTree = "<group>";
 		};
-		D6D5D4001E3D0C6F00748468 /* Model */ = {
+		D6D5D41D1E3D0D6700748468 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Model;
 			sourceTree = "<group>";
 		};
-		D6D5D4011E3D0C6F00748468 /* View */ = {
+		D6D5D41E1E3D0D6700748468 /* View */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		D6D5D4021E3D0C6F00748468 /* ViewModel */ = {
+		D6D5D41F1E3D0D6700748468 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
-		D6D5D4031E3D0C6F00748468 /* Tools */ = {
+		D6D5D4201E3D0D6700748468 /* Tools */ = {
 			isa = PBXGroup;
 			children = (
 			);
@@ -738,6 +738,7 @@
 				D6D5D3E11E3D0BE900748468 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D6D5D3E21E3D0BE900748468 /* Build configuration list for PBXNativeTarget "斗鱼TVTests" */ = {
 			isa = XCConfigurationList;
@@ -746,6 +747,7 @@
 				D6D5D3E41E3D0BE900748468 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D6D5D3E51E3D0BE900748468 /* Build configuration list for PBXNativeTarget "斗鱼TVUITests" */ = {
 			isa = XCConfigurationList;
@@ -754,6 +756,7 @@
 				D6D5D3E71E3D0BE900748468 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
